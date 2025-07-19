@@ -25,8 +25,8 @@
 
 **🔄 Pester** *(in progress)*  
 A hybrid to-do list and AI chatbot that shames you into getting things done — with custom tone modes, gatekeeping logic, and slow claps.  
-> _"Think productivity meets passive aggression."_  
 [View repo →](https://github.com/n4ika/pester)
+> _"Think productivity meets passive aggression."_  
 
 **📚 StudySpark**  
 A collaborative study planner built in 2 weeks at Le Wagon with a team of 4. Find tutors, plan sessions, and share notes with ease.  
@@ -38,9 +38,9 @@ A cursed economic simulator where you run a cursed juice stand in a cursed econo
 
 **🆘 ResourceReach** *(planning stage)*  
 A community-focused app to help people in crisis connect with local resources fast — built for urgency, dignity, and real-time support.  
-> _If you've ever said, “I don’t know where to go for help,” this app is for you._  
 🔗 [Pitch deck →](https://docs.google.com/presentation/d/1P1a9qKGT2PBqb4xHzpyNOqnVtIe2jAvSntUWXtpgf5s/edit?slide=id.p#slide=id.p) *(coming soon)*  
 💡 Got ideas, experience, or want to contribute? [Reach out!](mailto:naika.c.3113@gmail.com)
+> _If you've ever said, “I don’t know where to go for help,” this app is for you._  
 
 ---
 
