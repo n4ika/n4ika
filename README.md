@@ -21,7 +21,7 @@
 
 ---
 
-### 🚧 Recent Projects & Work in Progress
+### 🚧 Project Highlights & Work in Progress
 
 **🔄 Pester** *(in progress)*  
 A hybrid to-do list and AI chatbot that shames you into getting things done — with custom tone modes, gatekeeping logic, and slow claps.  
