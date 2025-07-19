@@ -11,14 +11,12 @@
 ### 🗂 Table of Contents
 
 - [📫 How to Reach Me](#-how-to-reach-me)
-- [🔭 Currently Working On](#currently-working-on)
 - [🌱 Currently Learning](#currently-learning)
 - [👯 Open to Collaborate On](#open-to-collaborate-on)
 - [🤔 Looking for Help With](#looking-for-help-with)
 - [💬 Ask Me About](#ask-me-about)
 - [🛠 Tech Stack](#tech-stack)
 - [🚧 Projects](#projects)
-- [🎧 Now Playing](#now-playing)
 - [📚 Now Reading](#now-reading)
 - [⚡ Fun Fact](#fun-fact)
 - [📊 GitHub Stats](#github-stats)
@@ -105,19 +103,6 @@ A community-focused app to help people in crisis connect with local resources fa
 > _If you've ever said, “I don’t know where to go for help,” this app is for you._  
 🔗 [Pitch deck →](https://docs.google.com/presentation/d/1P1a9qKGT2PBqb4xHzpyNOqnVtIe2jAvSntUWXtpgf5s/edit?slide=id.p#slide=id.p) *(coming soon)*  
 💡 Got ideas, experience, or want to contribute? [Reach out!](mailto:naika.c.3113@gmail.com)
-
-</details>
-
----
-
-<details>
-<summary>🎧 <strong>Now Playing</strong></summary>
-
-- Janelle Monáe — *Float*  
-- Cleo Sol — *Golden Hour*  
-- Little Simz — *Gorilla*  
-- NxWorries — *FromHere*  
-*(Last updated: [manually add a date])*
 
 </details>
 
