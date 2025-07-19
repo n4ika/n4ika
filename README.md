@@ -61,20 +61,20 @@ A community-focused app to help people in crisis connect with local resources fa
 
 ### 🛠 Tech Stack
 
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white)
-![Rails](https://img.shields.io/badge/Rails-CC0000?style=flat&logo=rubyonrails&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white)
+![Rails](https://img.shields.io/badge/Rails-CC0000?style=flat&logo=rubyonrails&logoColor=white)
+![Sinatra](https://img.shields.io/badge/Sinatra-000000?style=flat&logo=ruby&logoColor=white)
+![Active Record](https://img.shields.io/badge/Active_Record-CC0000?style=flat&logo=rubyonrails&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Stimulus](https://img.shields.io/badge/StimulusJS-ff4757?style=flat&logo=lightning&logoColor=white)
 ![Turbo](https://img.shields.io/badge/Turbo-8A2BE2?style=flat)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Squarespace](https://img.shields.io/badge/Squarespace-000000?style=flat&logo=squarespace&logoColor=white)
-![Sinatra](https://img.shields.io/badge/Sinatra-000000?style=flat&logo=ruby&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
-![Active Record](https://img.shields.io/badge/Active_Record-CC0000?style=flat&logo=rubyonrails&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![Squarespace](https://img.shields.io/badge/Squarespace-000000?style=flat&logo=squarespace&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 
 ---
