@@ -4,6 +4,7 @@
 💼 Open to work — full-time, part-time, freelance, or project-based  
 🔌 Contributing where I can (and learning something new every day)  
 <img src="./assets/suge.png" alt="Suge the Frenchie" width="20" /> Dog named Suge supervises all commits 
+
 [![Now Playing on Spotify](https://img.shields.io/badge/Now_Playing-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/68Og3vyrLPuv7YYoLYBQvu)
 
 ---
