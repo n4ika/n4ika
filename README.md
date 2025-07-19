@@ -8,20 +8,6 @@
 
 ---
 
-### 🗂 Table of Contents
-
-- [📫 How to Reach Me](#-how-to-reach-me)
-- [🌱 Currently Learning](#currently-learning)
-- [👯 Open to Collaborate On](#open-to-collaborate-on)
-- [💬 Ask Me About](#ask-me-about)
-- [🛠 Tech Stack](#tech-stack)
-- [🚧 Projects](#projects)
-- [📚 Now Reading](#now-reading)
-- [⚡ Fun Fact](#fun-fact)
-- [📊 GitHub Stats](#github-stats)
-
----
-
 ### 📫 How to Reach Me
 
 - 📬 [LinkedIn](https://www.linkedin.com/in/naikaestriplet/)
