@@ -1,6 +1,13 @@
-# 👋🏾 Hi, I’m Naïka!
 
-[![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=yourusername)](https://open.spotify.com/embed/playlist/68Og3vyrLPuv7YYoLYBQvu?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy")
+<details>
+<summary>🎧 <strong>Now Playing</strong></summary>
+
+[![Now Playing on Spotify](https://img.shields.io/badge/Now_Playing-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/68Og3vyrLPuv7YYoLYBQvu)
+
+</details>
+
+
+# 👋🏾 Hi, I’m Naïka!
 
 👷🏾‍♀️ Full-stack developer building weird little apps with purpose  
 💼 Open to work — full-time, part-time, freelance, or project-based  
