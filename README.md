@@ -23,24 +23,28 @@
 
 ### 🚧 Project Highlights & Work in Progress
 
+**📚 StudySpark**  
+A collaborative study planner built in 2 weeks at Le Wagon with a team of 4. Find tutors, plan sessions, and share notes with ease.  
+[View repo →](https://github.com/n4ika/studyspark)
+
 **🔄 Pester** *(in progress)*  
 A hybrid to-do list and AI chatbot that shames you into getting things done — with custom tone modes, gatekeeping logic, and slow claps.  
 [View repo →](https://github.com/n4ika/pester)
 > _"Think productivity meets passive aggression."_  
 
-**📚 StudySpark**  
-A collaborative study planner built in 2 weeks at Le Wagon with a team of 4. Find tutors, plan sessions, and share notes with ease.  
-[View repo →](https://github.com/n4ika/studyspark)
+**🆘 ResourceReach** *(planning stage)*  
+A community-focused app to help people in crisis connect with local resources fast — built for urgency, dignity, and real-time support.  
+🔗 [Pitch deck →](https://docs.google.com/presentation/d/1P1a9qKGT2PBqb4xHzpyNOqnVtIe2jAvSntUWXtpgf5s/edit?slide=id.p#slide=id.p) *(coming soon)*  
+💡 Got ideas, experience, or want to contribute? [Reach out!](mailto:naika.c.3113@gmail.com)
+> _If you've ever said, “I don’t know where to go for help,” this app is for you._
 
 **🍊 Juice Stand Economics Simulator**  
 A cursed economic simulator where you run a cursed juice stand in a cursed economy. Prices rise. Demand falls. Mayhem ensues.  
 [View repo →](https://github.com/n4ika/juice-stand-economics)
 
-**🆘 ResourceReach** *(planning stage)*  
-A community-focused app to help people in crisis connect with local resources fast — built for urgency, dignity, and real-time support.  
-🔗 [Pitch deck →](https://docs.google.com/presentation/d/1P1a9qKGT2PBqb4xHzpyNOqnVtIe2jAvSntUWXtpgf5s/edit?slide=id.p#slide=id.p) *(coming soon)*  
-💡 Got ideas, experience, or want to contribute? [Reach out!](mailto:naika.c.3113@gmail.com)
-> _If you've ever said, “I don’t know where to go for help,” this app is for you._  
+**🌗 Dark Mode Toggle**  
+A quick, responsive theme switcher built with HTML, CSS, and JavaScript — supports system preference, localStorage, and smooth transitions.  
+[View live →](https://n4ika.github.io/dark-mode-toggle) • [View repo →](https://github.com/n4ika/dark-mode-toggle)
 
 ---
 
