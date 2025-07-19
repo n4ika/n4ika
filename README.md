@@ -3,7 +3,7 @@
 👷🏾‍♀️ Full-stack developer building weird little apps with purpose  
 💼 Open to work — full-time, part-time, freelance, or project-based  
 🔌 Contributing where I can (and learning something new every day)  
-🐶 Dog named Suge supervises all commits <img src="./assets/suge.png" alt="Suge the Frenchie" width="100" />
+🐶 Dog named Suge supervises all commits <img src="./assets/suge.png" alt="Suge the Frenchie" width="60" />
 
 ---
 
