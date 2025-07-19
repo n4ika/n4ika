@@ -7,6 +7,44 @@
 
 ---
 
+### 🔭 Currently Working On
+
+- `Pester` — a hybrid to-do list + AI accountability bot that doesn’t sugarcoat your procrastination.
+- `ResourceReach` — a community-first app to help people in crisis access local support fast.
+
+---
+
+### 🌱 Currently Learning
+- Frontend performance optimization
+- Webflow
+- Expanding into Swift, mobile dev, and design systems
+- How to convince myself that testing is fun (jury’s still out)
+
+---
+
+### 👯 Open to Collaborate On
+
+- Projects with social impact, community support, or weird/experimental ideas  
+- Early-stage MVPs where you need a Rails/JS builder to bring it to life
+
+---
+
+### 🤔 Looking for Help With
+
+- Input for `ResourceReach`  
+- Anyone who’s worked with community orgs, crisis services, or trauma-informed design  
+- Talking myself out of over-engineering side projects 😅
+
+---
+
+### 💬 Ask Me About
+
+- Bootcamp life  
+- Building solo apps with Rails  
+- Running customer support teams (my past life)
+
+---
+  
 ### 🛠 Tech Stack
 
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white)
@@ -18,6 +56,7 @@
 ![Stimulus](https://img.shields.io/badge/StimulusJS-ff4757?style=flat&logo=lightning&logoColor=white)
 ![Turbo](https://img.shields.io/badge/Turbo-8A2BE2?style=flat)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Squarespace](https://img.shields.io/badge/Squarespace-000000?style=flat&logo=squarespace&logoColor=white)
 
 ---
 
@@ -44,11 +83,24 @@ A community-focused app to help people in crisis connect with local resources fa
 
 ---
 
-### 💌 Let’s Connect!
+### 📫 How to Reach Me
 
 - 📬 [LinkedIn](https://www.linkedin.com/in/naikaestriplet/)
 - 🌐 Portfolio: *coming soon*
 - 📨 Email: naika.c.3113@gmail.com
+
+---
+
+### ⚡ Fun Fact
+
+I once wrote an entire app feature out of spite just to prove a point. (It worked.)  
+Also: Suge snores like a tiny freight train.
+
+### 🐾 Suge, Head of Commit Supervision
+
+<p align="center">
+  <img src="./assets/suge.png" alt="Suge the Frenchie" width="120" />
+</p>
 
 ---
 
