@@ -71,6 +71,11 @@ A community-focused app to help people in crisis connect with local resources fa
 ![Turbo](https://img.shields.io/badge/Turbo-8A2BE2?style=flat)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Squarespace](https://img.shields.io/badge/Squarespace-000000?style=flat&logo=squarespace&logoColor=white)
+![Sinatra](https://img.shields.io/badge/Sinatra-000000?style=flat&logo=ruby&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
+![Active Record](https://img.shields.io/badge/Active_Record-CC0000?style=flat&logo=rubyonrails&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+
 
 ---
 
