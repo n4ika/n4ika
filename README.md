@@ -1,33 +1,23 @@
-<img src="./assets/suge.png" alt="Suge the Frenchie" width="230" /> My dog who Suge supervises all commits 
+<img src="./assets/suge.png" alt="Suge the Frenchie" width="30" /> My dog who Suge supervises all commits 
 
 ---
 
-### 📫 How to Reach Me
-
-- 📬 [LinkedIn](https://www.linkedin.com/in/naikaestriplet/)
-- 🌐 Portfolio: *coming soon*
-- 📨 Email: naika.c.3113@gmail.com  
+### 📫 Contact Me
 - 🤝 Always open to meaningful collaboration — especially weird little builds, MVPs, or impact-driven projects.
+- 💬 Also happy to chat about:
+  - Bootcamp life & transitioning into tech  
+  - Building solo apps with Rails  
+  - Running customer support teams (my past life)
 
 ---
 
-<details>
-<summary>🧠 <strong>Learning & Interests</strong></summary>
-
-🌱 Currently exploring:
+### 🌱 Currently Learning:
 
 - Frontend performance optimization  
 - Webflow  
 - Swift, mobile dev, and design systems  
 - How to convince myself that testing is fun (jury’s still out)
 
-💬 Also happy to chat about:
-
-- Bootcamp life & transitioning into tech  
-- Building solo apps with Rails  
-- Running customer support teams (my past life)
-
-</details>
 
 ---
 
