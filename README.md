@@ -1,18 +1,10 @@
-
-<details>
-<summary>🎧 <strong>Now Playing</strong></summary>
-
-[![Now Playing on Spotify](https://img.shields.io/badge/Now_Playing-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/68Og3vyrLPuv7YYoLYBQvu)
-
-</details>
-
-
 # 👋🏾 Hi, I’m Naïka!
 
 👷🏾‍♀️ Full-stack developer building weird little apps with purpose  
 💼 Open to work — full-time, part-time, freelance, or project-based  
 🔌 Contributing where I can (and learning something new every day)  
 <img src="./assets/suge.png" alt="Suge the Frenchie" width="20" /> Dog named Suge supervises all commits 
+[![Now Playing on Spotify](https://img.shields.io/badge/Now_Playing-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/68Og3vyrLPuv7YYoLYBQvu)
 
 ---
 
@@ -42,16 +34,6 @@
 ---
 
 <details>
-<summary>🔭 <strong>Currently Working On</strong></summary>
-
-- `Pester` — a hybrid to-do list + AI accountability bot that doesn’t sugarcoat your procrastination.
-- `ResourceReach` — a community-first app to help people in crisis access local support fast.
-
-</details>
-
----
-
-<details>
 <summary>🌱 <strong>Currently Learning</strong></summary>
 
 - Frontend performance optimization  
@@ -68,17 +50,6 @@
 
 - Projects with social impact, community support, or weird/experimental ideas  
 - Early-stage MVPs where you need a Rails/JS builder to bring it to life
-
-</details>
-
----
-
-<details>
-<summary>🤔 <strong>Looking for Help With</strong></summary>
-
-- Input for `ResourceReach`  
-- Anyone who’s worked with community orgs, crisis services, or trauma-informed design  
-- Talking myself out of over-engineering side projects 😅
 
 </details>
 
@@ -114,7 +85,7 @@
 ---
 
 <details>
-<summary>🚧 <strong>Projects</strong></summary>
+<summary>🚧 <strong>Projects & Work in Progress</strong></summary>
 
 **🔄 Pester** *(in progress)*  
 A hybrid to-do list and AI chatbot that shames you into getting things done — with custom tone modes, gatekeeping logic, and slow claps.  
@@ -155,10 +126,10 @@ A community-focused app to help people in crisis connect with local resources fa
 <details>
 <summary>📚 <strong>Now Reading</strong></summary>
 
-- *Practical Object-Oriented Design* by Sandi Metz  
+- *Parable of the Sower* by Octavia E Butler
 - *The Creative Act* by Rick Rubin  
 - *Orbiting the Giant Hairball* by Gordon MacKenzie  
-*(Last updated: [manually add a date])*
+*(Last updated: [July 18, 2025])*
 
 </details>
 
