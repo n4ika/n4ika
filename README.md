@@ -48,9 +48,6 @@ A community-focused app to help people in crisis connect with local resources fa
 <summary>📚 <strong>Now Reading</strong></summary>
 
 - *Parable of the Sower* by Octavia E Butler
-- *The Creative Act* by Rick Rubin  
-- *Orbiting the Giant Hairball* by Gordon MacKenzie  
-*(Last updated: [July 18, 2025])*
 
 </details>
 
