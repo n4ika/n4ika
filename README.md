@@ -5,6 +5,20 @@
 🔌 Contributing where I can (and learning something new every day)  
 <img src="./assets/suge.png" alt="Suge the Frenchie" width="20" /> Dog named Suge supervises all commits 
 [![Now Playing on Spotify](https://img.shields.io/badge/Now_Playing-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/68Og3vyrLPuv7YYoLYBQvu)
+---
+
+<strong>Tech Stack</strong>
+
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white)
+![Rails](https://img.shields.io/badge/Rails-CC0000?style=flat&logo=rubyonrails&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Stimulus](https://img.shields.io/badge/StimulusJS-ff4757?style=flat&logo=lightning&logoColor=white)
+![Turbo](https://img.shields.io/badge/Turbo-8A2BE2?style=flat)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Squarespace](https://img.shields.io/badge/Squarespace-000000?style=flat&logo=squarespace&logoColor=white)
 
 ---
 
@@ -44,24 +58,6 @@
 - Bootcamp life  
 - Building solo apps with Rails  
 - Running customer support teams (my past life)
-
-</details>
-
----
-
-<details>
-<summary>🛠 <strong>Tech Stack</strong></summary>
-
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white)
-![Rails](https://img.shields.io/badge/Rails-CC0000?style=flat&logo=rubyonrails&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Stimulus](https://img.shields.io/badge/StimulusJS-ff4757?style=flat&logo=lightning&logoColor=white)
-![Turbo](https://img.shields.io/badge/Turbo-8A2BE2?style=flat)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Squarespace](https://img.shields.io/badge/Squarespace-000000?style=flat&logo=squarespace&logoColor=white)
 
 </details>
 
