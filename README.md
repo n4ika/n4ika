@@ -10,7 +10,7 @@
 
 ---
 
-<strong>Tech Stack</strong>
+### 🛠 Tech Stack
 
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white)
 ![Rails](https://img.shields.io/badge/Rails-CC0000?style=flat&logo=rubyonrails&logoColor=white)
@@ -37,14 +37,14 @@
 <details>
 <summary>🧠 <strong>Learning & Interests</strong></summary>
 
-Currently exploring:
+🌱 Currently exploring:
 
 - Frontend performance optimization  
 - Webflow  
 - Swift, mobile dev, and design systems  
 - How to convince myself that testing is fun (jury’s still out)
 
-Also happy to chat about:
+💬 Also happy to chat about:
 
 - Bootcamp life & transitioning into tech  
 - Building solo apps with Rails  
