@@ -1,4 +1,4 @@
-<img src="./assets/suge.png" alt="Suge the Frenchie" width="30" /> My dog who Suge supervises all commits 
+<img src="./assets/suge.png" alt="Suge the Frenchie" width="30" /> My dog who Suge supervises all commits. He snores like a tiny freight train. 
 
 ---
 
@@ -21,8 +21,7 @@
 
 ---
 
-<details>
-<summary>🚧 <strong>Projects & Work in Progress</strong></summary>
+### 🚧 Recent Projects & Work in Progress
 
 **🔄 Pester** *(in progress)*  
 A hybrid to-do list and AI chatbot that shames you into getting things done — with custom tone modes, gatekeeping logic, and slow claps.  
@@ -43,10 +42,6 @@ A community-focused app to help people in crisis connect with local resources fa
 🔗 [Pitch deck →](https://docs.google.com/presentation/d/1P1a9qKGT2PBqb4xHzpyNOqnVtIe2jAvSntUWXtpgf5s/edit?slide=id.p#slide=id.p) *(coming soon)*  
 💡 Got ideas, experience, or want to contribute? [Reach out!](mailto:naika.c.3113@gmail.com)
 
-💡 Looking to collaborate on any of these projects? Have UX ideas? Want to co-build weird stuff? [Let’s chat](mailto:naika.c.3113@gmail.com).
-
-</details>
-
 ---
 
 <details>
@@ -56,16 +51,6 @@ A community-focused app to help people in crisis connect with local resources fa
 - *The Creative Act* by Rick Rubin  
 - *Orbiting the Giant Hairball* by Gordon MacKenzie  
 *(Last updated: [July 18, 2025])*
-
-</details>
-
----
-
-<details>
-<summary>⚡ <strong>Fun Fact</strong></summary>
-
-I once wrote an entire app feature out of spite just to prove a point. (It worked.)  
-Also: Suge snores like a tiny freight train.
 
 </details>
 
