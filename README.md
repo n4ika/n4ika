@@ -3,7 +3,7 @@
 👷🏾‍♀️ Full-stack developer building weird little apps with purpose  
 💼 Open to work — full-time, part-time, freelance, or project-based  
 🔌 Contributing where I can (and learning something new every day)  
-🐶 Dog named Suge supervises all commits
+🐶 Dog named Suge supervises all commits <img src="./assets/suge.png" alt="Suge the Frenchie" width="100" />
 
 ---
 
@@ -95,12 +95,6 @@ A community-focused app to help people in crisis connect with local resources fa
 
 I once wrote an entire app feature out of spite just to prove a point. (It worked.)  
 Also: Suge snores like a tiny freight train.
-
-### 🐾 Suge, Head of Commit Supervision
-
-<p align="center">
-  <img src="./assets/suge.png" alt="Suge the Frenchie" width="120" />
-</p>
 
 ---
 
