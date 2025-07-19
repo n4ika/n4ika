@@ -7,24 +7,6 @@
 
 ---
 
-### 📫 How to Reach Me
-
-- 📬 [LinkedIn](https://www.linkedin.com/in/naikaestriplet/)
-- 🌐 Portfolio: *coming soon*
-- 📨 Email: naika.c.3113@gmail.com
-
----
-
-<details>
-<summary>🔭 <strong>Currently Working On</strong></summary>
-
-- `Pester` — a hybrid to-do list + AI accountability bot that doesn’t sugarcoat your procrastination.
-- `ResourceReach` — a community-first app to help people in crisis access local support fast.
-
-</details>
-
----
-
 ### 🗂 Table of Contents
 
 - [📫 How to Reach Me](#-how-to-reach-me)
