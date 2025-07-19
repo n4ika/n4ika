@@ -13,7 +13,6 @@
 - [📫 How to Reach Me](#-how-to-reach-me)
 - [🌱 Currently Learning](#currently-learning)
 - [👯 Open to Collaborate On](#open-to-collaborate-on)
-- [🤔 Looking for Help With](#looking-for-help-with)
 - [💬 Ask Me About](#ask-me-about)
 - [🛠 Tech Stack](#tech-stack)
 - [🚧 Projects](#projects)
