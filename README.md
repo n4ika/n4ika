@@ -29,36 +29,24 @@
 
 - 📬 [LinkedIn](https://www.linkedin.com/in/naikaestriplet/)
 - 🌐 Portfolio: *coming soon*
-- 📨 Email: naika.c.3113@gmail.com
+- 📨 Email: naika.c.3113@gmail.com  
+- 🤝 Always open to meaningful collaboration — especially weird little builds, MVPs, or impact-driven projects.
 
 ---
 
 <details>
-<summary>🌱 <strong>Currently Learning</strong></summary>
+<summary>🧠 <strong>Learning & Interests</strong></summary>
+
+Currently exploring:
 
 - Frontend performance optimization  
 - Webflow  
-- Expanding into Swift, mobile dev, and design systems  
+- Swift, mobile dev, and design systems  
 - How to convince myself that testing is fun (jury’s still out)
 
-</details>
+Also happy to chat about:
 
----
-
-<details>
-<summary>👯 <strong>Open to Collaborate On</strong></summary>
-
-- Projects with social impact, community support, or weird/experimental ideas  
-- Early-stage MVPs where you need a Rails/JS builder to bring it to life
-
-</details>
-
----
-
-<details>
-<summary>💬 <strong>Ask Me About</strong></summary>
-
-- Bootcamp life  
+- Bootcamp life & transitioning into tech  
 - Building solo apps with Rails  
 - Running customer support teams (my past life)
 
@@ -87,6 +75,8 @@ A community-focused app to help people in crisis connect with local resources fa
 > _If you've ever said, “I don’t know where to go for help,” this app is for you._  
 🔗 [Pitch deck →](https://docs.google.com/presentation/d/1P1a9qKGT2PBqb4xHzpyNOqnVtIe2jAvSntUWXtpgf5s/edit?slide=id.p#slide=id.p) *(coming soon)*  
 💡 Got ideas, experience, or want to contribute? [Reach out!](mailto:naika.c.3113@gmail.com)
+
+💡 Looking to collaborate on any of these projects? Have UX ideas? Want to co-build weird stuff? [Let’s chat](mailto:naika.c.3113@gmail.com).
 
 </details>
 
