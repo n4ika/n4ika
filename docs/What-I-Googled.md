@@ -7,7 +7,7 @@ A real-time dev journal of things I had to look up while building this app. Lear
 
 ---
 
-### 🗓️ July 21, 2025
+### 🗓️ July 20, 2025
 
 | Search Query                                    | Result / Link                                          | Summary                                  |
 | ----------------------------------------------- | ------------------------------------------------------ | ---------------------------------------- |
