@@ -17,7 +17,7 @@
 - Webflow  
 - Swift, mobile dev, and design systems  
 - How to convince myself that testing is fun (jury’s still out)
-
+- I'm also [learning in public](./docs) if you want to check that out
 
 ---
 
