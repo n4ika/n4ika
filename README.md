@@ -25,7 +25,7 @@ I'm a **full-stack developer** passionate about building meaningful projects, cu
 **APIs & Integration:** RESTful APIs, HTTP protocols, external package integration  
 **AI/ML:** LLM integration, multi-modal inference, embeddings & RAG, conversational UX  
 **Auth & Security:** Authorization patterns, Pundit, database search optimization  
-**Tools:** VS Code, Git, Webflow, background job processing  
+**Tools:** VS Code, Git, Webflow, Squaresapce, background job processing  
 **Learning:** Swift, iOS development, performance optimization
 
 ---
