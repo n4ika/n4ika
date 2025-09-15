@@ -9,10 +9,10 @@ I'm a **full-stack developer** passionate about building meaningful projects, cu
 ## 🚀 What I'm Building Right Now
 
 **📚 Personal Library App** — Putting my Le Wagon bootcamp skills to work with a Rails app to manage my reading collection  
-[View repo →](link-when-ready)
+[View repo →](https://github.com/n4ika/book-library-ruby)
 
 **📱 100 Days of SwiftUI** — Daily iOS development practice to expand into mobile  
-[View progress →](link-when-ready)
+[View progress →](https://github.com/n4ika/100DaysOfSwiftUI)
 
 **🎨 Client Webflow Project** — Custom site design and development (freelance)
 
