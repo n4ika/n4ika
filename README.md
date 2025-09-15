@@ -20,13 +20,13 @@ I'm a **full-stack developer** passionate about building meaningful projects, cu
 
 ## 🛠 Tech Stack
 
-**Backend:** Ruby (OOP), Rails (MVC, routing, CRUD), Active Record (associations, validations), PostgreSQL  
-**Frontend:** HTML5, CSS3, JavaScript (DOM manipulation, AJAX), Stimulus, Bootstrap  
-**APIs & Integration:** RESTful APIs, HTTP protocols, external package integration  
-**AI/ML:** LLM integration, multi-modal inference, embeddings & RAG, conversational UX  
-**Auth & Security:** Authorization patterns, Pundit, database search optimization  
-**Tools:** VS Code, Git, Webflow, Squaresapce, background job processing  
-**Learning:** Swift, iOS development, performance optimization
+Backend: Ruby (OOP), Rails (MVC, routing, CRUD), Active Record (associations, validations), PostgreSQL, background job processing
+Frontend: HTML5, CSS3, JavaScript (DOM manipulation, AJAX), Stimulus, Bootstrap
+APIs & Integration: RESTful APIs, HTTP protocols, external package integration
+AI/ML: LLM integration, multi-modal inference, embeddings & RAG, conversational UX
+Auth & Security: Authorization patterns, Pundit, database search optimization
+Tools: VS Code, Xcode, Git, Webflow, Squarespace
+Learning: Swift, iOS development
 
 ---
 
