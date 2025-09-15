@@ -1,51 +1,48 @@
-<img src="./assets/suge.png" alt="Suge the Frenchie" width="30" /> My dog who Suge supervises all commits. He snores like a tiny freight train. 
+# Hey there! 👋
+
+<img src="./assets/suge.png" alt="Suge the Frenchie" width="30" /> **Suge supervises all commits** — he's my French Bulldog code reviewer who snores like a tiny freight train.
+
+I'm a **full-stack developer** passionate about building meaningful projects, currently sharpening my skills with personal builds and freelance work.
 
 ---
 
-### 📫 Contact Me
-- 🤝 Always open to meaningful collaboration — especially weird little builds, MVPs, or impact-driven projects.
-- 💬 Also happy to chat about:
-  - Bootcamp life & transitioning into tech  
-  - Building solo apps with Rails  
-  - Running customer support teams (my past life)
+## 🚀 What I'm Building Right Now
+
+**📚 Personal Library App** — Putting my Le Wagon bootcamp skills to work with a Rails app to manage my reading collection  
+[View repo →](link-when-ready)
+
+**📱 100 Days of SwiftUI** — Daily iOS development practice to expand into mobile  
+[View progress →](link-when-ready)
+
+**🎨 Client Webflow Project** — Custom site design and development (freelance)
 
 ---
 
-### 🌱 Currently Learning:
+## 🛠 Tech Stack
 
-- Frontend performance optimization  
-- Webflow  
-- Swift, mobile dev, and design systems  
-- How to convince myself that testing is fun (jury’s still out)
-- I'm also [learning in public](./docs) if you want to check that out
-
----
-
-### 🚧 Project Highlights & Work in Progress
-
-**📚 StudySpark**  
-A collaborative study planner built in 2 weeks at Le Wagon with a team of 4. Find tutors, plan sessions, and share notes with ease.  
-[View repo →](https://github.com/MohdSafwanAhmad/study-spark)
-
-**🔄 Pester** *(in progress)*  
-A hybrid to-do list and AI chatbot that shames you into getting things done — with custom tone modes, gatekeeping logic, and slow claps.  
-[View repo →](https://github.com/n4ika/pester)
-> _"Think productivity meets passive aggression."_  
-
-**🆘 ResourceReach** *(planning stage)*  
-A community-focused app to help people in crisis connect with local resources fast — built for urgency, dignity, and real-time support.  
-🔗 [Pitch deck →](https://docs.google.com/presentation/d/1P1a9qKGT2PBqb4xHzpyNOqnVtIe2jAvSntUWXtpgf5s/edit?slide=id.p#slide=id.p) *(coming soon)*  
-💡 Got ideas, experience, or want to contribute? [Reach out!](mailto:naika.c.3113@gmail.com)
-> _If you've ever said, “I don’t know where to go for help,” this app is for you._
+**Backend:** Ruby (OOP), Rails (MVC, routing, CRUD), Active Record (associations, validations), PostgreSQL  
+**Frontend:** HTML5, CSS3, JavaScript (DOM manipulation, AJAX), Stimulus, Bootstrap  
+**APIs & Integration:** RESTful APIs, HTTP protocols, external package integration  
+**AI/ML:** LLM integration, multi-modal inference, embeddings & RAG, conversational UX  
+**Auth & Security:** Authorization patterns, Pundit, database search optimization  
+**Tools:** VS Code, Git, Webflow, background job processing  
+**Learning:** Swift, iOS development, performance optimization
 
 ---
 
-<details>
-<summary>📚 <strong>Now Reading</strong></summary>
+## 💼 Open to Opportunities
 
-- *Parable of the Sower* by Octavia E Butler
+🤝 **Freelance projects** — Especially MVPs, weird little builds, or impact-driven work  
+🏢 **Permanent roles** — Ready to bring my bootcamp skills and previous customer support leadership to a development team  
 
-</details>
+**Let's chat about:** Transitioning into tech, building with Rails, or running effective support teams
+
+---
+
+## 📫 Get in Touch
+
+📧 [naika.c.3113@gmail.com](mailto:naika.c.3113@gmail.com)  
+💬 Always happy to connect!
 
 ---
 
@@ -57,25 +54,14 @@ A community-focused app to help people in crisis connect with local resources fa
 
 </details>
 
----
+<details>
+<summary>🎯 <strong>Future Projects</strong></summary>
 
-### 🛠 Tech Stack
+**🔄 Pester** — AI productivity chatbot with attitude *(returning end of 2025)*  
+**🆘 ResourceReach** — Crisis resource connection app *(returning end of 2025)*  
+[Pitch deck →](https://docs.google.com/presentation/d/1P1a9qKGT2PBqb4xHzpyNOqnVtIe2jAvSntUWXtpgf5s/edit?slide=id.p#slide=id.p)
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white)
-![Rails](https://img.shields.io/badge/Rails-CC0000?style=flat&logo=rubyonrails&logoColor=white)
-![Sinatra](https://img.shields.io/badge/Sinatra-000000?style=flat&logo=ruby&logoColor=white)
-![Active Record](https://img.shields.io/badge/Active_Record-CC0000?style=flat&logo=rubyonrails&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Stimulus](https://img.shields.io/badge/StimulusJS-ff4757?style=flat&logo=lightning&logoColor=white)
-![Turbo](https://img.shields.io/badge/Turbo-8A2BE2?style=flat)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-![Squarespace](https://img.shields.io/badge/Squarespace-000000?style=flat&logo=squarespace&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-
+</details>
 
 ---
 
