@@ -25,10 +25,10 @@ Prior experience leading technical support teams, bringing strong communication 
 
 ## Open To
 
-Junior front-end development roles (permanent, full-time)  
-Freelance web development projects  
-Collaboration and learning opportunities
-
+- Junior front-end development roles (permanent, full-time)  
+- Freelance web development projects  
+- Collaboration and learning opportunities
+  
 ## Get in Touch
 
 naika.c.3113@gmail.com
