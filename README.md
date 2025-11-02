@@ -1,6 +1,6 @@
-# Front-End Developer
+# Front-End Developer with Fullstack Capabilities
 
-Junior developer specializing in responsive web development, currently seeking full-time front-end roles at startups and product companies.
+Junior developer specializing in responsive web development, currently seeking full-time roles at startups and product companies.
 
 ## What I'm Doing Now
 
@@ -25,12 +25,10 @@ Prior experience leading technical support teams, bringing strong communication 
 
 ## Open To
 
-## Open To
-
-- Front-end development roles (junior/entry-level)
-- Fullstack development roles (junior/entry-level)
+- Front-end development roles (junior/entry-level)  
+- Fullstack development roles (junior/entry-level)  
 - Freelance web development projects
-  
+
 ## Get in Touch
 
 naika.c.3113@gmail.com
