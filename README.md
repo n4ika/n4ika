@@ -25,9 +25,11 @@ Prior experience leading technical support teams, bringing strong communication 
 
 ## Open To
 
-- Junior front-end development roles (permanent, full-time)  
-- Freelance web development projects  
-- Collaboration and learning opportunities
+## Open To
+
+- Front-end development roles (junior/entry-level)
+- Fullstack development roles (junior/entry-level)
+- Freelance web development projects
   
 ## Get in Touch
 
