@@ -31,4 +31,4 @@ Prior experience leading technical support teams, bringing strong communication 
 
 ## Get in Touch
 
-naika.c.3113@gmail.com
+naika.c.estriplet@gmail.com
