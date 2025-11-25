@@ -12,8 +12,6 @@ Junior developer specializing in responsive web development, currently seeking f
 
 ## Technical Skills
 
-## Technical Skills
-
 **Languages & Frameworks:** JavaScript (ES6+), Ruby on Rails, HTML5, CSS3, SQL  
 **Front-End:** Responsive Design, DOM Manipulation, Bootstrap, Mobile-First Development  
 **Back-End & Infrastructure:** PostgreSQL, RESTful APIs, Sidekiq (Background Jobs), ActionCable (WebSockets), Redis  
