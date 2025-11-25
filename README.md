@@ -6,13 +6,13 @@ Junior developer specializing in responsive web development, currently seeking f
 
 **Freelance Web Developer** — Building and migrating custom websites for small to medium businesses using Webflow and Squarespace, with a focus on responsive implementations and SEO optimization.
 
-**Sharpening Front-End Skills** — Actively learning modern JavaScript, advanced CSS techniques, and React through hands-on projects.
+**Sharpening Front-End Skills** — Actively learning advanced CSS techniques, and React through hands-on projects.
 
 ## Technical Skills
 
 **Front-End:** JavaScript (ES6+), HTML5, CSS3, Responsive Design, DOM Manipulation  
 **Platforms & Tools:** Webflow, Squarespace, Git, VS Code  
-**Currently Learning:** React, Advanced CSS (Grid, Flexbox, Animations), Node.js  
+**Currently Learning:** React, Advanced CSS (Grid, Flexbox, Animations) 
 **Foundation:** Ruby on Rails, PostgreSQL, RESTful APIs
 
 ## Background
