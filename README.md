@@ -12,7 +12,7 @@ Junior developer specializing in responsive web development, currently seeking f
 
 **Front-End:** JavaScript (ES6+), HTML5, CSS3, Responsive Design, DOM Manipulation  
 **Platforms & Tools:** Webflow, Squarespace, Git, VS Code  
-**Currently Learning:** React, Advanced CSS (Grid, Flexbox, Animations) 
+**Currently Learning:** React, Advanced CSS (Grid, Flexbox, Animations)  
 **Foundation:** Ruby on Rails, PostgreSQL, RESTful APIs
 
 ## Background
