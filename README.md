@@ -24,7 +24,7 @@ Junior developer specializing in responsive web development, currently seeking f
 **Le Wagon Full-Stack Web Development Bootcamp** (April 2025 - June 2025)  
 9-week intensive program covering full-stack Rails app development, culminating in building production-ready web applications.
 
-**Customer Support Leadership**  
+**Customer Support Leadership**  (September 2020 - April 2025)
 Prior experience leading technical support teams, bringing strong communication skills and user empathy to development work.
 
 ## Open To
