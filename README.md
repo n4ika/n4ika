@@ -1,4 +1,4 @@
-# Front-End Developer with Fullstack Capabilities
+# hi 👋
 
 Junior developer specializing in responsive web development, currently seeking full-time roles at startups and product companies.
 
